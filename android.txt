@@ -1,0 +1,6 @@
+1 login to your google account
+2 Click Calendar
+3 click the small arrow icon next to Other calendars at left pane and choose "add by UR:'
+4. copy and paste the URL and click OK.
+https://calendar.google.com/calendar/ical/610gmlqgs4vi2lba9fmk0o0kjk%40group.calendar.google.com/private-44e77ff4bba8e580196eba1b8816253b/basic.ics
+5. the calendar will appear on your phone automatically

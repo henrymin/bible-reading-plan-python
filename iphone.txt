@@ -1,0 +1,12 @@
+iPhone:
+
+Tap Settings→Mail, Contacts, Calendar.
+Tap Add Account.
+Tap Other.
+Tap Add Subscribed Calendar (near the bottom of the screen).
+copy and paste below address for the calendar on the Subscription screen.
+
+https://calendar.google.com/calendar/ical/610gmlqgs4vi2lba9fmk0o0kjk%40group.calendar.google.com/private-44e77ff4bba8e580196eba1b8816253b/basic.ics
+
+Tap Next. ...
+The calendar appears on the calendar list in the Calendar app.
